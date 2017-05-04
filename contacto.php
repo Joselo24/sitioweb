@@ -11,7 +11,7 @@ formulario
 Nombre completo <input name="nombre" type="text" id="nombre completo"size="30" maxlength="100"> 
 <br> 
 <br> 
-Correo electronico <input name="email" type="text" onBlur="MM_validateForm('email','','NisEmail');return document.MM_returnValue" size="25" maxlength="100" > 
+Correo electronico <input name="email" type="text" onBlur="MM_validateForm('email','','gmail');return document.MM_returnValue" size="25" maxlength="100" > 
 <br> 
 <br> 
 Población <input name="poblacion" type="text" onBlur="MM_validateForm('poblacion','','R');return document.MM_returnValue" size="20" maxlength="60"> 
